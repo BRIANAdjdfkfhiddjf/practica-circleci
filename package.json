@@ -1,0 +1,8 @@
+{
+  "name": "practica-circleci",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo Compilacion exitosa",
+    "test": "echo Pruebas exitosas"
+  }
+}
